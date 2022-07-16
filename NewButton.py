@@ -1,2 +1,1 @@
-ECHO is on.
-'print("Click")' 
+'print("Click")'
